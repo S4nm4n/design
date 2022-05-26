@@ -18,3 +18,6 @@ para la aplicación de nuestro curso.
 En la carpeta App encontrarás la aplicación en React.js que creamos para
 la aplicación de nuestro curso. Si necesitas más información sobre el
 código puedes encontrarla en el README.md dentro de esa carpeta.
+
+## Ahora en el repositorio de S4nm4n.
+Pude de un repositorio ajeno "clonarlo" luego quitarle que su repositorio online, cambiarlo a mi propio repositorio!!.
